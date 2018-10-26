@@ -1,0 +1,63 @@
+<svg id="NR_TELEPHONE" data-name="NR TELEPHONE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="240" height="67" viewBox="0 0 240 67">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #a89459;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 20px;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        font-family: Roboto;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="240" height="67" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#404b50" flood-opacity="0.24"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="BTN_RAPELLÉ" class="cls-1" x="5" y="2" width="230" height="57"/>
+  <image id="icon_phone" x="35" y="17" width="28" height="28" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAQAAADYBBcfAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfiChEQCyDx8WIBAAABG0lEQVQ4y53UMUoDQRTG8S8WikVIZUKCnSyxSSNCGkH0AHoAb+ABFksLW8G0YmGZIrVnUNJYCcHGIpDCLoKIEP8WGdfd2Vl54yu/5ce82fd2xSULfmvGjmxVYAADm1spJQ0rfPOSphW+esmWFT57SULdBideUtOhDT6Usl1Tr7S8cXyyZ7uleCywIyOTSP/FJDpue+KYJDEE4IW1WNhzraaRMDvznSQWtpkDcM9qLD117V7Htzty9DwWNniqouxzwXHl+rPJ1NGb/Gg4cZP+YsIdtwxKPxi6GR2z7bF8zUKn/jT8wRnrQQaE7zrKnk/DLAjdcOb8WdXvuO22KRZKEj2Gka3mcIe08Kkva1EzLkdLB+qrq0Qbqku6+gbyuKCRGHQ2cwAAAABJRU5ErkJggg=="/>
+  <text id="_01_78_05_45_36" data-name="01 78 05 45 36" class="cls-2" x="71.156" y="31.369">01 78 05 45 36</text>
+  <text id="Appel_non_surtaxé" data-name="Appel non surtaxé" class="cls-3" x="89.879" y="47.044">Appel non surtaxé</text>
+</svg>
